@@ -1,0 +1,6 @@
+{
+  "name": "O Portador da Memória",
+  "description": "Aplicativo oficial do universo literário O Portador da Memória: Entre a Luz e a Escuridão, de Júlio César Rodrigues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
